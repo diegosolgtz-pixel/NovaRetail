@@ -39,7 +39,4 @@ Este proyecto analiza los factores clave que determinan e impactan los ingresos 
 
 ### Recomendaciones / Lecciones
 * **Foco en retención (RFM):** Priorizar campañas y programas de fidelización orientados a aumentar la frecuencia de compra mensual por encima de la adquisición masiva.
-* **Optimización de pauta:** Reestructurar la segmentación publicitaria para impactar a usuarios con hábitos de compra recurrentes en lugar de basar la pauta únicamente en criterios sociodemográficos.
-
-> *(Aquí puedes insertar una captura de tus mapas de calor o gráficos de correlación)*
-> `![Mapa de correlación NovaRetail](link-o-ruta-de-tu-imagen.png)`
+* **Optimización de pauta:** Reestructurar la segmentación publicitaria para impactar a usuarios con hábitos de compra recurrentes en lugar de basar la pauta únicamente en criterios 
